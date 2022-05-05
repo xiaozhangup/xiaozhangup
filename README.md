@@ -1,8 +1,8 @@
+## About me
+
 - 👋 Hi, I’m @xiaozhangup
 - 🇨🇳 I'm from China
-- 📚️ I manage and develop my own Minecraft server
+- 📚️ General middle school students
+- 🦐 I use Ubuntu as my operating system
 
-My server's logo
-
-# HAPPYLANDMC Network
-![alt](http://112.126.70.9:3521/LOGO.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhangup&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
