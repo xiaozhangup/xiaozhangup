@@ -11,4 +11,4 @@
 
 ---
 ### What I use:
-[![My Skills](https://skillicons.dev/icons?i=java,cloudflare,github,gitlab,idea,linux,md,mysql,vscode,git,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cloudflare,github,gitlab,idea,linux,md,mysql,bash,vscode,git,vim)](https://skillicons.dev)
