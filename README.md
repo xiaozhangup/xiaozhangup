@@ -16,7 +16,7 @@
 ***TencentQQ*** 3296517911
 
 ---
-<img align="right" width="100" height="100" src="https://github.com/xiaozhangup/PixivAvatar/raw/main/p2/5.png">
+<a href="https://open.spotify.com/user/31zejmn3iup6yuyfl3gifuclq2ha?si=a6cf095663844ea1"><img align="right" width="100" height="100" src="https://github.com/xiaozhangup/xiaozhangup/blob/main/spotify-logo.png?raw=true"></a>
 
 ### What I use:
 [![My Skills](https://skillicons.dev/icons?i=java,cloudflare,github,gitlab,idea,linux,md,mysql,bash,vscode,git,vim)](https://skillicons.dev)
