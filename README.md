@@ -20,7 +20,3 @@
 
 ### What I use:
 [![My Skills](https://skillicons.dev/icons?i=java,cloudflare,github,gitlab,idea,linux,md,mysql,bash,vscode,git,vim)](https://skillicons.dev)
-
-<h2 align="center">
-      我厌恶那些误会与限制我的人 这是与我交流的第一原则
-</h2>
