@@ -16,7 +16,7 @@
 ***TencentQQ*** 3296517911
 
 ---
-<a href="https://open.spotify.com/user/31zejmn3iup6yuyfl3gifuclq2ha?si=a6cf095663844ea1" target="_blank"><img align="right" width="100" height="100" src="https://github.com/xiaozhangup/xiaozhangup/blob/main/spotify-logo.png?raw=true"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&redirect=true" target="_blank"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"></a>
 
 ### What I use:
 [![My Skills](https://skillicons.dev/icons?i=java,cloudflare,github,gitlab,idea,linux,md,mysql,bash,vscode,git,vim)](https://skillicons.dev)
