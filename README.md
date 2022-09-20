@@ -10,4 +10,4 @@
 - 💉 Living in China
 - 🦐 I use Ubuntu as my operating system
 ---
-<img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="256">
+<img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="300">
