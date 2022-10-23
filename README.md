@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhangup&layout=compact&hide_border=true&show_icons=true&card_width=445&theme=tokyonight">
 
-<img align="right" src="https://count.getloli.com/get/@xiaozhangup">
+<img align="left" src="https://count.getloli.com/get/@xiaozhangup">
 
 ## About me
 
