@@ -7,5 +7,6 @@
 - 💉 Living in China
 - 🦐 I use Ubuntu as my operating system
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhangup&layout=compact&hide_border=true&show_icons=true&card_width=1024&theme=tokyonight">
-<img align="right" src="https://count.getloli.com/get/@xiaozhangup">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhangup&layout=compact&hide_border=true&show_icons=true&card_width=768&theme=tokyonight">
+
+<img align="center" src="https://count.getloli.com/get/@xiaozhangup">
