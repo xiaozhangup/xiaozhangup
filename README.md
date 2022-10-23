@@ -9,4 +9,4 @@
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhangup&layout=compact&hide_border=true&show_icons=true&card_width=912&theme=tokyonight">
 
-<p align="center"<img align="center" src="https://count.getloli.com/get/@xiaozhangup"></p>
+<p align="center"><img align="center" src="https://count.getloli.com/get/@xiaozhangup"></p>
