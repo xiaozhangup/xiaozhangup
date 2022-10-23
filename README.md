@@ -10,6 +10,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhangup&layout=compact&hide_border=true&show_icons=true&card_width=912&theme=tokyonight">
 
 
-<p align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"></p>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"></p>
 
-<p align="right"><img src="https://count.getloli.com/get/@xiaozhangup"></p>
+<p align="center"><img src="https://count.getloli.com/get/@xiaozhangup"></p>
