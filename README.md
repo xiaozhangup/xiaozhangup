@@ -6,5 +6,5 @@
 - 👋 Hi, I’m @xiaozhangup
 - 📚️ General middle school students
 - 💉 Living in China
-- 🦐 I use Fedora as my operating system
+- 🦐 I use Arch as my operating system
 ---
