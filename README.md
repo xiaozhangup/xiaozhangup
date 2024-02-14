@@ -3,8 +3,8 @@
 ## About me
 
 - 👋 Hi, I’m @xiaozhangup
-- 📚️ General middle school students
+- 📚️ A middle school students
 - 💉 Living in China
-- 🦐 I use Arch as my operating system
+- 🦐 I use Windows 11 as my operating system
 ---
 <a href="https://afdian.net/a/xiaozhangup"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt=""></a>
