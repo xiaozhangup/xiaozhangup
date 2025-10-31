@@ -3,7 +3,7 @@
 ## About me
 
 - 👋 Hi, I’m @xiaozhangup
-- 📚️ A middle school students
+- 📚️ WUST
 - 💉 Living in China
 - 🦐 I use Windows 11 as my operating system
 ---
