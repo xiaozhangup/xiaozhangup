@@ -4,14 +4,15 @@
   💉 Living in China <br>
   🦐 I use Fedora as my operating system
 </p>
-<p align="center">  <img
-    src="https://skillicons.dev/icons?i=java,kotlin,ktor,c,cpp,bash,discord"
+<p align="center">
+  <img
+    src="https://i.icoziv.workers.dev/icons?i=bash-dark,c,canva,cpp,discord,docker,fedora,git-dark,github-dark,gitlab-dark"
     alt="Skills"
   /><br>
   <img
-    src="https://skillicons.dev/icons?i=docker,git,github,gitlab,gradle,idea,clion,redhat,vscode,md"
+    src="https://i.icoziv.workers.dev/icons?i=gradle-dark,idea-dark,kotlin-dark,ktor-dark,linux-dark,markdown-dark,papermc,podman,redhat-dark,steam,vscode-dark,zen"
     alt="Skills"
-  />
+  /><br>
 </p>
 
 ---
