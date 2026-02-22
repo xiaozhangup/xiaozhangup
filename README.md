@@ -23,11 +23,6 @@
     alt="GitHub Stats"
   />
 </p>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
 
 ---
 
@@ -39,3 +34,9 @@
 [![Steam](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zejmn3iup6yuyfl3gifuclq2ha?si=d06fff3b8c3b49af)
 
 </div>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
