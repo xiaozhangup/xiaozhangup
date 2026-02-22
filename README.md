@@ -23,6 +23,11 @@
     alt="GitHub Stats"
   />
 </p>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zejmn3iup6yuyfl3gifuclq2ha&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 ---
 
