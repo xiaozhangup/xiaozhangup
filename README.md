@@ -31,12 +31,9 @@
 
 ---
 
-<p align="center">
-  <a href="https://afdian.net/a/xiaozhangup">
-    <img 
-      width="220"
-      src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" 
-      alt="Support Me"
-    />
-  </a>
-</p>
+<div align="center">
+
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/xiaozhangup)
+[![爱发电](https://img.shields.io/badge/爱发电-946CE6?style=for-the-badge&logo=afdian&logoColor=white)](https://afdian.net/a/xiaozhangup)
+
+</div>
