@@ -35,5 +35,7 @@
 
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/xiaozhangup)
 [![爱发电](https://img.shields.io/badge/爱发电-946CE6?style=for-the-badge&logo=afdian&logoColor=white)](https://afdian.net/a/xiaozhangup)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199210251377/)
+[![Steam](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zejmn3iup6yuyfl3gifuclq2ha?si=d06fff3b8c3b49af)
 
 </div>
