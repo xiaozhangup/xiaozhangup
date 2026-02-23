@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img
-    src="https://i.icoziv.workers.dev/icons?i=bash-dark,c,cpp,discord,canva,docker,fedora,git-dark,github-dark,gitlab-dark"
+    src="https://i.icoziv.workers.dev/icons?i=bash-dark,c,cpp,java,discord,canva,docker,fedora,git-dark,github-dark,gitlab-dark"
     alt="Skills"
   /><br>
   <img
